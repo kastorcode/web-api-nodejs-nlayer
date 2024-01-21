@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "postbuild": "tsc-alias && cp -r src/database build",
+    "dev": "nodemon build/index.js",
+    "start": "node build/index.js"
+  },
+  "name": "web-api-nodejs-nlayer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "keywords": [],
+  "author": "<kastor.code/> Matheus Ramalho de Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "14",
+    "nodemon": "^3.0.3",
+    "tsc-alias": "^1.8.8",
+    "typescript": "^5.3.3"
+  }
+}

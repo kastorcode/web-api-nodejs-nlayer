@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1705771191333,
+    "name": "Naruto Uzumaki",
+    "age": 13,
+    "power": "Genin"
+  },
+  {
+    "id": 1705771240436,
+    "name": "Sasuke Uchiha",
+    "age": 13,
+    "power": "Genin"
+  },
+  {
+    "id": 1705771299814,
+    "name": "Sakura Haruno",
+    "age": 13,
+    "power": "Genin"
+  },
+  {
+    "id": 1705771422860,
+    "name": "Iruka Umino",
+    "age": 23,
+    "power": "Chunin"
+  },
+  {
+    "id": 1705771548937,
+    "name": "Kakashi Hatake",
+    "age": 27,
+    "power": "Jonin"
+  }
+]
